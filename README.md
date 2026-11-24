@@ -13,6 +13,10 @@ I contribute small, focused improvements to open-source software—usually aroun
 - [`Avogadro` — make Python scripts reliable on Windows](https://github.com/OpenChemistry/avogadrolibs/pull/2894)
 - [`react-shiki` — add highlighted-line support](https://github.com/AVGVSTVS96/react-shiki/pull/172)
 
-[Explore 19+ merged pull requests →](https://github.com/search?q=author%3Aaouxwoux+is%3Apr+is%3Amerged&type=pullrequests)
+[Browse merged pull requests](https://github.com/search?q=author%3Aaouxwoux+is%3Apr+is%3Amerged&type=pullrequests)
+
+## Selected project
+
+[PostgreSQL connection pooling demo](https://github.com/aouxwoux/postgres-connection-pooling-demo) compares pooled and unpooled connections under concurrent load. The repository includes setup instructions, the load test, and measured results.
 
 <sub>I like fixes that are easy to review, easy to test, and quietly make a project better.</sub>
